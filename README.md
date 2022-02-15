@@ -29,8 +29,11 @@ So, if after using this method if we are unable to identify the language, I’m 
 googletrans lib to identify further.
 
 2. googletrans – This is a python library by google to translate and identify languages.
+
+
 Advantage:
-• This library is really
+• This library is quite fast.
+
 Disadvantage:
 • This library is good when there is only one language in a sentence but if there
 are multiple language in a sentence it is not that accurate.
