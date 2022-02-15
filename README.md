@@ -18,13 +18,18 @@ in one of the languages that language is considered.
 
 Advantage:
 • The accuracy can be really good.
+
 • In future if we can get a better dataset, accuracy can be further improved
+
 • It is easy to implement and mange
 
 Disadvantage:
+
 • Using a wide dataset increases the size of the project
+
 • Since we are searching manually in each of these big datasets, the speed if the
 code is quite slow.
+
 So, if after using this method if we are unable to identify the language, I’m using google’s
 googletrans lib to identify further.
 
@@ -37,4 +42,12 @@ Advantage:
 Disadvantage:
 • This library is good when there is only one language in a sentence but if there
 are multiple language in a sentence it is not that accurate.
+
 • It is not accurate for detecting language of just one word.
+
+Demo Video :
+
+https://user-images.githubusercontent.com/53190754/154035289-1fed0887-05c4-44dd-9bdf-b7a0f19c8a0b.mp4
+
+
+
